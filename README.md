@@ -1,3 +1,24 @@
+## power_msgs (jade) - 0.1.3-0
+
+The packages in the `power_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade power_msgs` on `Thu, 07 May 2015 07:44:21 -0000`
+
+The `power_msgs` package was released.
+
+Version of package(s) in repository `power_msgs`:
+- upstream repository: https://github.com/fetchrobotics/power_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## power_msgs (indigo) - 0.1.3-0
 
 The packages in the `power_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo power_msgs` on `Wed, 25 Feb 2015 02:38:41 -0000`
