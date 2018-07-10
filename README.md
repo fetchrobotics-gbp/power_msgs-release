@@ -1,3 +1,26 @@
+## power_msgs (indigo) - 0.2.1-0
+
+The packages in the `power_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo power_msgs --new-track` on `Tue, 10 Jul 2018 19:28:42 -0000`
+
+The `power_msgs` package was released.
+
+Version of package(s) in repository `power_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/power_msgs.git
+- release repository: https://github.com/fetchrobotics-gbp/power_msgs-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.6`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## power_msgs (indigo) - 0.2.0-0
 
 The packages in the `power_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo power_msgs` on `Mon, 06 Jul 2015 07:26:55 -0000`
