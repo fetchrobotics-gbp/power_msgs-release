@@ -1,3 +1,26 @@
+## power_msgs (melodic) - 0.4.0-1
+
+The packages in the `power_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release power_msgs --rosdistro melodic` on `Wed, 28 Aug 2019 20:43:46 -0000`
+
+The `power_msgs` package was released.
+
+Version of package(s) in repository `power_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/power_msgs.git
+- release repository: https://github.com/fetchrobotics-gbp/power_msgs-release.git
+- rosdistro version: `0.3.0-0`
+- old version: `0.3.0-0`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## power_msgs (jade) - 0.1.4-0
 
 The packages in the `power_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade power_msgs --new-track` on `Tue, 10 Jul 2018 19:49:38 -0000`
