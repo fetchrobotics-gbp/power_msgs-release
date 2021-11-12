@@ -1,3 +1,26 @@
+## power_msgs (noetic) - 0.4.2-1
+
+The packages in the `power_msgs` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release power_msgs --rosdistro noetic` on `Fri, 12 Nov 2021 20:32:48 -0000`
+
+The `power_msgs` package was released.
+
+Version of package(s) in repository `power_msgs`:
+
+- upstream repository: https://github.com/fetchrobotics/power_msgs.git
+- release repository: https://github.com/fetchrobotics-gbp/power_msgs-release.git
+- rosdistro version: `0.4.1-1`
+- old version: `0.4.1-1`
+- new version: `0.4.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.2`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## power_msgs (noetic) - 0.4.1-1
 
 The packages in the `power_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release power_msgs --rosdistro noetic` on `Sun, 05 Jul 2020 20:13:32 -0000`
