@@ -2,6 +2,11 @@
 Changelog for package power_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.2 (2021-11-12)
+------------------
+* Add is_charger_detected to BatteryState
+* Contributors: Eric Relson
+
 0.4.1 (2020-05-24)
 ------------------
 * updates maintainers
